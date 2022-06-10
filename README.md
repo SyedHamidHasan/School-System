@@ -1,1 +1,14 @@
 # School-System
+![dashboard](https://user-images.githubusercontent.com/101410628/172998526-6bdfebba-9eac-4e50-bdd6-724a2bcabef5.jpeg)
+I have made a school management website, This can be the best solution for managing daily school operations. It allows the person to manage registration, admissions, academic calendar, attendance,Library,Marks,Behavior,Accounting, Teachers Files , Classrooms, Noticeboard etc. School Management Systems are tools designed to help institutions offering education.  There are many compelling features in this system which help to decrease redundancy and repetitive work . Also referred to as school management software, it automates school operations like the admission procedure, reducing the burden on the management. Therefore, educators can concentrate on providing more quality education to their students.
+![infor](https://user-images.githubusercontent.com/101410628/173010805-e9339cfa-533c-48b0-bee2-7c0ebc2bf7a5.jpeg)
+in Information tab , we can add  or edit the information of students. It helps schools and colleges to take student data online for easier management and better clarity.It helps the admissions department track prospective students during the application and enrollment process
+![attentdance](https://user-images.githubusercontent.com/101410628/173012344-d994d949-bbe8-4422-8f04-62eed3c6b9dc.jpeg)
+It also contain Online attendance system which enables school administrators to record, manage & compile daily student attendance data. Along with student attendance, this  also allows teachers to generate 100% accurate student attendance reports.
+![timetable](https://user-images.githubusercontent.com/101410628/173013809-e52a3a8f-7a34-48c2-abef-cdf1afe7b081.jpeg)
+It's Schedules feature  can place the subjects at their proper places, at the proper time and in the proper manner. It  also prevents wastage of time and energy .We can also edit the timetable or change the subjects
+![teacher](https://user-images.githubusercontent.com/101410628/173021759-69ec4426-5d79-43e5-9c37-a28c5cbe4c42.jpeg)
+User features shows us the details os all teacher ,here we can edit the data of teacher's profiles or delete the profile of the teachers
+It also contains many other features such as Notification, Noticebord, Syllabus, Library ,Messages etc.
+The web-based management software for school  will offer the familiar and right user experience. This needs internet connection for access as well as manages school operations very  easily. I don't have to install any kind of plugin and application with your web-based system. Furthermore, I can access the web- based management solution from anywhere and anytime.
+It's compatible with different browsers and devices. As information gets stored at one place, and I can  safely access all information without losing it out
